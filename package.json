@@ -1,5 +1,5 @@
 {
-  "name": "scss_project",
+  "name": "ourweb",
   "version": "1.0.0",
   "description": "new try to use scss in web page.",
   "main": "index.js",
@@ -19,7 +19,8 @@
     "autoprefixer": "^7.2.5",
     "concat": "^1.0.3",
     "live-server": "^1.2.0",
-    "node-sass": "^4.7.2",
+    "node-sass": "^4.9.0",
+    "nodemon": "^1.17.5",
     "npm-run-all": "^4.1.2",
     "postcss-cli": "^4.1.1"
   }
